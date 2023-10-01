@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋🏾, I'm Emre</h1>
 <h3 align="center">🎮 A Passionate Game Developer and Computer Engineer 🚀</h3>
 
-<br> I'm currently a senior student in computer engineering and a passionate game developer. My curiosity for technology deepens with each passing day, and I love constantly learning and exploring new things. I'm working on my own game projects using Unity, focusing on improving my skills in this field. Additionally, I combine my coding with my hobby projects in Pixel Art, Photoshop, and Illustrator, making my work even more meaningful. 
+<br> I'm currently a senior student in computer engineering and a passionate game developer. My curiosity for technology deepens with each passing day, and I love constantly learning and exploring new things. I'm working on my own game projects using Unity and C#, focusing on improving my skills in this field. Additionally, I combine my coding with my hobby projects in Pixel Art, Photoshop, and Illustrator, making my work even more meaningful. 
 Coding isn't just a job for me; it becomes an art, and games are the canvases I enjoy working on.
 
 If you're interested in reviewing my projects or collaborating I'm here to achieve greater successes together. I'm excited about pushing the boundaries of creativity and contributing new ideas to the world of gaming. 
