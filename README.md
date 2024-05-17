@@ -7,9 +7,9 @@ Coding isn't just a job for me; it becomes an art, and games are the canvases I 
 If you're interested in reviewing my projects or collaborating I'm here to achieve greater successes together. I'm excited about pushing the boundaries of creativity and contributing new ideas to the world of gaming. 
 Feel free to get in touch; I can't wait to connect and share our love for gaming! 🕹️</br> 
 
-- 🔭 I’m currently working on **Farming RPG**
+- 🔭 I’m currently working on **2D RPG**
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **C#, Unity & AI Frameworks**
 
 - 📫 How to reach me: **emreeyapicii@gmail.com**
 
