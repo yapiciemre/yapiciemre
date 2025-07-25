@@ -1,40 +1,86 @@
-<h1 align="center">Hello 👋🏾, I'm Emre</h1>
-<h3 align="center">🎮 A Passionate Game Developer and Computer Engineer 🚀</h3>
+<h1 align="center">Hello 👋🏾, I'm Emre Yapıcı</h1>
+<h3 align="center">🤖 AI-Focused Computer Engineer | 🎮 Game Developer (Hobbyist) | 🚀 Lifelong Learner</h3>
 
-<br> I'm currently a senior student in computer engineering and a passionate game developer. My curiosity for technology deepens with each passing day, and I love constantly learning and exploring new things. I'm working on my own game projects using Unity and C#, focusing on improving my skills in this field. Additionally, I combine my coding with my hobby projects in Pixel Art, Photoshop, and Illustrator, making my work even more meaningful. 
-Coding isn't just a job for me; it becomes an art, and games are the canvases I enjoy working on.
+---
 
-If you're interested in reviewing my projects or collaborating I'm here to achieve greater successes together. I'm excited about pushing the boundaries of creativity and contributing new ideas to the world of gaming. 
-Feel free to get in touch; I can't wait to connect and share our love for gaming! 🕹️</br> 
+I'm a **Computer Engineer** passionate about **Artificial Intelligence** and **Machine Learning**.  
+My primary goal is to work in AI-focused roles where I can contribute to real-world, scalable applications using cutting-edge technologies like **LLMs**, **RAG pipelines**, and **Agentic AI systems**.
 
-- 🔭 I’m currently working on **2D RPG**
+I'm currently following the **AI Engineer Roadmap 2025**, a rigorous, industry-aligned curriculum that includes production-level project development, model fine-tuning, reinforcement learning, and system deployment practices.
 
-- 🌱 I’m currently learning **C#, Unity & AI Frameworks**
+Alongside AI, I continue exploring **game development** as a creative hobby — building 2D games with Unity and C#, blending logic with visual design.
 
-- 📫 How to reach me: **emreeyapicii@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Current Focus:
+- 📚 Following the [AI Engineer Roadmap 2025](https://god-level-python.notion.site/AI-Engineer-HQ-b3c98407b4ab45819811db081ae9d102?pvs=4)
+- 🔬 Building AI projects using Python, PyTorch, scikit-learn, and HuggingFace
+- 🧠 Strengthening fundamentals in NLP, LLMs, RAG, and Agent Workflows
+- 🎮 Occasionally working on 2D Unity games as side creative projects
+
+---
+
+### 📚 Currently Learning:
+- ✅ Python OOP, Modules, DSA, NumPy, Pandas  
+- ✅ Linear Algebra, Calculus, Probability & Statistics  
+- ✅ ML Models: Classification, Regression & Deployment (Flask, FastAPI)  
+- 🔄 Deep Learning: CNNs, RNNs, Transformers  
+- 💬 LLMs: Prompt Engineering, Fine-tuning, QA pipelines  
+- 🔍 RAG: Embeddings, Vector DBs (Pinecone, ChromaDB)  
+- 🎯 RLHF & Ethical AI  
+- 🧠 Agentic AI Workflows (LangChain, ReAct, CrewAI)  
+- ☁️ Cloud Platforms: Azure, GCP, AWS
+
+---
+
+### 📫 Let's Connect:
+- **Email:** yapiciemre@gmail.com  
+- **LinkedIn:** [linkedin.com/in/yapiciemre](https://linkedin.com/in/yapiciemre)  
+- **Medium:** [@yapiciemre](https://medium.com/@yapiciemre)  
+- **Instagram:** [@yapiciiemree](https://instagram.com/yapiciiemree)
+
+---
+
+### 🧠 AI Languages & Tools:
 <p align="left">
-<a href="https://linkedin.com/in/yapiciemre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yapiciemre" height="30" width="40" /></a>
-<a href="https://www.behance.net/yapiciemre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yapiciemre" height="30" width="40" /></a>
-<a href="https://medium.com/@yapiciemre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yapiciemre" height="30" width="40" /></a>
-<a href="https://instagram.com/yapiciiemree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yapiciiemree" height="30" width="40" /></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/></a>
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
+  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>
+  <a href="https://jupyter.org/"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40" height="40" alt="Jupyter"/></a>
+  <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="HuggingFace"/></a>
+  <a href="https://spark.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40" alt="Apache Spark"/></a>
+  <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/yapiciemre"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/yapiciemre" /></a></p><br><br>
+### 🎮 Game Development (Hobby):
+<p align="left">
+  <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity"/></a>
+  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></a>
+  <a href="https://www.canva.com/"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40" alt="Canva"/></a>
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
+</p>
+
+---
+
+### 📌 What’s on My GitHub:
+- 🤖 **moocare**: AI-powered agentic system for dairy cow health tracking (Python, Flask, NLP)
+- 🧠 **Multi-Agent Projects (CrewAI)**: AI internship projects focused on agent-based systems (Jupyter, Python)
+- 🚀 **spark-env**: Apache Spark & PySpark Docker environment with Jupyter & Web App interfaces
+- 🎮 **SpaceJump**, **LittlePirateOnion**, **CatPotFish**: Fun 2D Unity games exploring gameplay mechanics
+
+---
+
+### ☕ Support My Journey:
+<p>
+  <a href="https://www.buymeacoffee.com/yapiciemre"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/yapiciemre"/></a>
+</p>
+
+---
+
+> *“Artificial Intelligence is about amplifying human potential. Let’s build the future, together.”* 🚀
