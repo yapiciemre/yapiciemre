@@ -76,11 +76,4 @@ Alongside AI, I continue exploring **game development** as a creative hobby — 
 
 ---
 
-### ☕ Support My Journey:
-<p>
-  <a href="https://www.buymeacoffee.com/yapiciemre"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/yapiciemre"/></a>
-</p>
-
----
-
 > *“Artificial Intelligence is about amplifying human potential. Let’s build the future, together.”* 🚀
